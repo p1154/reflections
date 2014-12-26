@@ -1,3 +1,7 @@
 This is a new file I have created on the github website to test how github handles differences 
 between the local repository and the remote repository.  Will be interesting to see how it 
 synchronizes up.  
+
+To answer a question in the class, I want to pull manually rather than having github 
+automatically update my local files because I don't want any of my local stuff to 
+get overwritten or modified before I'm ready
